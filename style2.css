@@ -8,6 +8,7 @@ body{
     height: 100vh;
     font-size: 1.2em;
     font-family: arial;
+    max-height: 90vh;
 }
 
 .main-title{

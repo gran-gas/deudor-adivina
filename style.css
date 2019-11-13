@@ -14,7 +14,8 @@ body{
     grid-template-columns: 1f;
     grid-template-rows: 10em 7em 6em 4em 2em 11em;
     text-align: center;
-    font-family: arial;   
+    font-family: arial;
+    max-height: 90vh;   
 }
 h1{
     color: orange;
